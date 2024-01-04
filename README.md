@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghekghek2
 - 👀 I’m interested in ui/ux ,animation ,web design .
-- 🌱 I’m currently learning react
+
 - 💞️ I’m looking to collaborate on ui/ux and react ...
 - 📫 How to reach me ...
 
