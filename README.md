@@ -60,7 +60,7 @@ I'm a **Full Stack Developer** who loves bringing ideas to life — from the fir
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ghekghek2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghekghek2&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=ghekghek2&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -73,7 +73,11 @@ I'm a **Full Stack Developer** who loves bringing ideas to life — from the fir
 ## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ghekghek2/ghekghek2/output/github-contribution-grid-snake.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghekghek2/ghekghek2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghekghek2/ghekghek2/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ghekghek2/ghekghek2/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 </div>
 
 <br/>
