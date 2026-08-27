@@ -8,19 +8,7 @@
 
 <br/>
 
-## 👋 About Me
 
-I'm a **Full Stack Developer** who loves bringing ideas to life — from the first Figma frame to a fully deployed, animated product. I care about the details most people skip: the easing curve on a hover state, the loading skeleton that doesn't jank, the layout that just *feels* right.
-
-- 🖥️ I build **end-to-end web apps** — clean UI on the front, solid logic on the back
-- 🎨 Strong focus on **UI/UX**, motion design, and pixel-accurate implementation
-- ⚡ I turn **Figma designs** into responsive, animated interfaces with **React**, **Next.js**, and **GSAP**
-- 🧩 Comfortable owning a project from design handoff to deployment
-- 💞️ Currently open to collaborating on **UI/UX**, **React**, and **full stack** projects
-- 🌱 Always sharpening my animation and system-design skills
-- 📫 Let's connect if you want to build something people actually enjoy using!
-
-<br/>
 
 ## 🛠️ Tech Stack
 
@@ -53,20 +41,7 @@ I'm a **Full Stack Developer** who loves bringing ideas to life — from the fir
 
 </div>
 
-<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ghekghek2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=ghekghek2&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghekghek2&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
 <br/>
 
@@ -82,21 +57,7 @@ I'm a **Full Stack Developer** who loves bringing ideas to life — from the fir
 
 <br/>
 
-## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ghekghek2" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/ghekghek2" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:ghekghek2@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
 
 <br/>
 
